@@ -1,0 +1,1 @@
+CALL add_lang ($1, $2)

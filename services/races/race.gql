@@ -1,0 +1,10 @@
+{
+    races {
+        name
+        languages {
+            name
+        }
+        size
+        speed
+    }
+}

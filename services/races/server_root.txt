@@ -1,0 +1,5 @@
+GET /races - list all races
+GET /race/id - list race with given id
+GET /languages - list all languages
+POST /language/new - add language
+POST /race/new - create new race
